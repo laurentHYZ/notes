@@ -1,1 +1,22 @@
-** 
+** [[www.bing.com]]
+*** #+BEGIN_SRC python :results output
+***
+***
+***
+***
+***
+***
+***
+***
+***
+***
+***
+***
+*** NOW [[[[[[]
+:PROPERTIES:
+:now: 1605870592500
+:END:
+
+
+
+[]]][]]][]]#+END_SRC
