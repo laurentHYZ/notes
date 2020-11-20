@@ -18,12 +18,4 @@ for item in range(10):    print(item)
 for item in range(20):
     print(item)
 #+END_SRC
-**** [[https://www.example.com][label]]ddd[[dd[[k][]]][]]
-***** ![image](https://asset.logseq.com/static/img/logo.png)
-**** *Bold *
-**** /Italics 16:51
-**** /hello
-**** #+BEGIN_SRC python
-for item in range(20):
-***** print(item)
 **** #+END_SRC
