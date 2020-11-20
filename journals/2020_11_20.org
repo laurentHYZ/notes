@@ -1,3 +1,6 @@
 #+TITLE: Nov 20th, 2020
 
-** 
+** #+BEGIN_SRC python
+** for item in range(10):
+**
+** #+END_SRC
