@@ -1,2 +1,6 @@
 #+TITLE: Nov 20th, 2020
 
+**
+:PROPERTIES:
+:: 
+:END:
