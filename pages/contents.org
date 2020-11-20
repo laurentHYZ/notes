@@ -1,5 +1,16 @@
 ** [[www.bing.com]]
-*** #+BEGIN_SRC python :results output
+***
+#+BEGIN_SRC python
+
+for item in range(20):
+    print(item)
+
+
+ #+END_SRC
+****
+#+BEGIN_SRC python
+
+#+END_SRC
 ***
 ***
 ***
