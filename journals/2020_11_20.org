@@ -32,5 +32,7 @@ print("hello)
 for item in range(10):
       print(item)
 #+END_SRC
-***** #+BEGIN_SRC python :results output
-for item in range(10): #+END_SRC
+*****
+#+BEGIN_QUOTE
+
+#+END_QUOTE
