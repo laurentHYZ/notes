@@ -1,6 +1,4 @@
 #+TITLE: Nov 20th, 2020
 
-**
-:PROPERTIES:
-:: 
-:END:
+** #+BEGIN_SRC python
+for item in range(10): #+END_SRC
