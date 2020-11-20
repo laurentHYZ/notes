@@ -32,7 +32,6 @@ print("hello)
 for item in range(10):
       print(item)
 #+END_SRC
-*****
-#+BEGIN_EXPORT
-hello
-#+END_EXPORT
+***** #+BEGIN_TIP
+hello, remember
+***** #+END_TIP
