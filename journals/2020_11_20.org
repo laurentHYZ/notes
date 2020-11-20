@@ -11,7 +11,7 @@ for item in range(10):    print(item)
 ** #+BEGIN_SRC python
 ** for item in range(10):
 **
-** #+END_SRC
+**
 ***
 #+BEGIN_SRC clojure
   (println "Hello world!")
