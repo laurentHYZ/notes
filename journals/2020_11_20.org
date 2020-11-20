@@ -2,11 +2,7 @@
 
 ** #+BEGIN_SRC python
 for item in range(10): #+END_SRC
-*** #+BEGIN_SRC python
-for item in range(10):
-*** #+END_SRC
-**** 'this is code'
-***** `this is code`
-****** ~this is code~
-****** [[www.bing.com][label]]
-******
+*** NOW #+BEGIN_SRC python #+END_SRC
+:PROPERTIES:
+:now: 1605870768354
+:END:
