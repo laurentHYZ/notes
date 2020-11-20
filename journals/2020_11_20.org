@@ -9,3 +9,4 @@ for item in range(10):
 ***** `this is code`
 ****** ~this is code~
 ****** [[www.bing.com][label]]
+******
