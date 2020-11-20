@@ -27,6 +27,9 @@ AS;DKLFJAKLJDS FLKSD F
 #+END_QUOTE
 *****
 #+BEGIN_SRC python
-print(hello)
+
+print("hello)
+for item in range(10):
+      print(item)
 #+END_SRC
 *****
